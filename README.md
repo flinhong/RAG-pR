@@ -1,2 +1,2 @@
 # RAG-pR
-RAG practise.
+RAG learning and practising.

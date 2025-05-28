@@ -175,3 +175,4 @@ cython_debug/
 
 # Wikipedia fetched text data
 /RAG-Wikipedia/data
+/RAG-Wikipedia/dataset
