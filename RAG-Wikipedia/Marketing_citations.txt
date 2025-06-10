@@ -60,34 +60,35 @@ described as a 'fine line'.
 ## 4. Adam Smith
 URL: https://en.wikipedia.org/wiki/Adam_Smith
 Summary: Adam Smith (baptised 16 June  [O.S. 5 June] 1723 – 17 July 1790) was a Scottish
-economist and philosopher who was a pioneer in the thinking of political economy
+economist and philosopher who was a pioneer in the field of political economy
 and key figure during the Scottish Enlightenment. Seen by some as the "father of
-economics" or the "father of capitalism", he wrote two classic works, The Theory
-of Moral Sentiments (1759) and An Inquiry into the Nature and Causes of the
-Wealth of Nations (1776). The latter, often abbreviated as The Wealth of
-Nations, is considered his magnum opus and the first modern work that treats
-economics as a comprehensive system and an academic discipline. Smith refuses to
-explain the distribution of wealth and power in terms of God's will and instead
-appeals to natural, political, social, economic, legal, environmental and
-technological factors and the interactions among them. Among other economic
-theories, the work introduced Smith's idea of absolute advantage. Smith studied
-social philosophy at the University of Glasgow and at Balliol College, Oxford,
-where he was one of the first students to benefit from scholarships set up by
-fellow Scot John Snell. After graduating, he delivered a successful series of
-public lectures at the University of Edinburgh, leading him to collaborate with
+economics" or the "father of capitalism". He is known for two classic works: The
+Theory of Moral Sentiments (1759) and An Inquiry into the Nature and Causes of
+the Wealth of Nations (1776). The latter, often abbreviated as The Wealth of
+Nations, is regarded as his magnum opus, marking the inception of modern
+economic scholarship as a comprehensive system and an academic discipline. Smith
+refuses to explain the distribution of wealth and power in terms of divine will
+and instead appeals to natural, political, social, economic, legal,
+environmental and technological factors, as well as the interactions among them.
+The work is notable for its contribution to economic theory, particularly in its
+exposition of concept of absolute advantage. Smith studied social philosophy at
+the University of Glasgow and at Balliol College, Oxford, where he was one of
+the first students to benefit from scholarships set up by John Snell. Following
+his graduation, he delivered a successful series of public lectures at the
+University of Edinburgh, that met with acclaim. This led to a collaboration with
 David Hume during the Scottish Enlightenment. Smith obtained a professorship at
-Glasgow, teaching moral philosophy and during this time, wrote and published The
-Theory of Moral Sentiments. In his later life, he took a tutoring position that
-allowed him to travel throughout Europe, where he met other intellectual leaders
-of his day. As a reaction to the common policy of protecting national markets
-and merchants through minimizing imports and maximizing exports, what came to be
-known as mercantilism, Smith laid the foundations of classical free market
-economic theory. The Wealth of Nations was a precursor to the modern academic
-discipline of economics. In this and other works, he developed the concept of
-division of labour and expounded upon how rational self-interest and competition
-can lead to economic prosperity. Smith was controversial in his day and his
-general approach and writing style were often satirised by writers such as
-Horace Walpole.
+Glasgow, where he taught moral philosophy. During this period, he wrote and
+published The Theory of Moral Sentiments. Subsequently, he assumed a tutoring
+position that facilitated travel throughout Europe, where he encountered
+intellectual figures of his era. In response to the prevailing policy of
+safeguarding national markets and merchants through the reduction of imports and
+the augmentation of exports, a practice that came to be known as mercantilism,
+Smith laid the foundational principles of classical free-market economic theory.
+The Wealth of Nations was a precursor to the modern academic discipline of
+economics. In this and other works, he developed the concept of division of
+labour and expounded upon how rational self-interest and competition can lead to
+economic prosperity. Smith was controversial in his day and his general approach
+and writing style were often satirised by writers such as Horace Walpole.
 
 ## 5. Adam Smith Institute
 URL: https://en.wikipedia.org/wiki/Adam_Smith_Institute
@@ -486,13 +487,13 @@ to produce and market Wozniak's Apple I personal computer. Its second computer,
 the Apple II, became a best seller as one of the first mass-produced
 microcomputers. Apple introduced the Lisa in 1983 and the Macintosh in 1984, as
 some of the first computers to use a graphical user interface and a mouse. By
-1985, internal company problems led to Jobs leaving to form NeXT, Inc., and
-Wozniak withdrawing to other ventures; John Sculley served as long-time CEO for
-over a decade. In the 1990s, Apple lost considerable market share in the
-personal computer industry to the lower-priced Wintel duopoly of the Microsoft
-Windows operating system on Intel-powered PC clones. In 1997, Apple was weeks
-away from bankruptcy. To resolve its failed operating system strategy, it bought
-NeXT, effectively bringing Jobs back to the company, who guided Apple back to
+1985, internal company problems led to Jobs leaving to form NeXT, and Wozniak
+withdrawing to other ventures; John Sculley served as long-time CEO for over a
+decade. In the 1990s, Apple lost considerable market share in the personal
+computer industry to the lower-priced Wintel duopoly of the Microsoft Windows
+operating system on Intel-powered PC clones. In 1997, Apple was weeks away from
+bankruptcy. To resolve its failed operating system strategy, it bought NeXT,
+effectively bringing Jobs back to the company, who guided Apple back to
 profitability over the next decade with the introductions of the iMac, iPod,
 iPhone, and iPad devices to critical acclaim as well as the iTunes Store,
 launching the "Think different" advertising campaign, and opening the Apple
@@ -826,7 +827,7 @@ boycotting a business is an empty threat, with no significant effect on sales.
 ## 42. Brand
 URL: https://en.wikipedia.org/wiki/Brand
 Summary: A brand is a name, term, design, symbol or any other feature that distinguishes
-one seller's good or service from those of other sellers. Brands are used in
+one seller's goods or service from those of other sellers. Brands are used in
 business, marketing, and advertising for recognition and, importantly, to create
 and store value as brand equity for the object identified, to the benefit of the
 brand's customers, its owners and shareholders. Brand names are sometimes
@@ -1256,10 +1257,10 @@ cold calling as well.
 URL: https://en.wikipedia.org/wiki/Commerce
 Summary: Commerce is the organized system of activities, functions, procedures and
 institutions that directly or indirectly contribute to the smooth, unhindered
-large-scale distribution and transfer (exchange through buying and selling) of
-goods, services, and other things of value at the right time, place, quantity,
-quality and price through various channels among the original producers and the
-final consumers within local, regional, national or international economies. The
+large-scale exchange (distribution through transactional processes) of goods,
+services, and other things of value at the right time, place, quantity, quality
+and price through various channels among the original producers and the final
+consumers within local, regional, national or international economies. The
 diversity in the distribution of natural resources, differences of human needs
 and wants, and division of labour along with comparative advantage are the
 principal factors that give rise to commercial exchanges. Commerce consists of
@@ -1448,9 +1449,9 @@ involve consumers, Marketing research is concerned specifically with marketing
 processes, such as advertising effectiveness and salesforce effectiveness, while
 market research is concerned specifically with markets and distribution. Two
 explanations given for confusing market research with marketing research are the
-similarity of the terms and also that market research is a subset of marketing
-research. Further confusion exists because of major companies with expertise and
-practices in both areas.
+similarity of the terms and the fact that market research is a subset of
+marketing research. Further confusion exists because of major companies with
+expertise and practices in both areas.
 
 ## 76. Content marketing
 URL: https://en.wikipedia.org/wiki/Content_marketing
@@ -2049,8 +2050,8 @@ meaningful information, as in the case of popular culture.
 
 ## 114. Economics
 URL: https://en.wikipedia.org/wiki/Economics
-Summary: Economics () is a social science that studies the production, distribution, and
-consumption of goods and services. Economics focuses on the behaviour and
+Summary: Economics () is a behavioral science that studies the production, distribution,
+and consumption of goods and services. Economics focuses on the behaviour and
 interactions of economic agents and how economies work. Microeconomics analyses
 what is viewed as basic elements within economies, including individual agents
 and markets, their interactions, and the outcomes of interactions. Individual
@@ -2254,7 +2255,7 @@ different privacy settings, publicly. Users can also communicate directly with
 each other with Messenger, edit messages (within 15 minutes after sending), join
 common-interest groups, and receive notifications on the activities of their
 Facebook friends and the pages they follow. Facebook has often been criticized
-over issues such as user privacy (as with the Facebook-Cambridge Analytica data
+over issues such as user privacy (as with the Facebook–Cambridge Analytica data
 scandal), political manipulation (as with the 2016 U.S. elections) and mass
 surveillance. The company has also been subject to criticism over its
 psychological effects such as addiction and low self-esteem, and over content
@@ -2519,17 +2520,1336 @@ URL: https://en.wikipedia.org/wiki/Forbes
 Summary: Forbes () is an American business magazine founded by B. C. Forbes in 1917. It
 has been owned by the Hong Kong–based investment group Integrated Whale Media
 Investments since 2014. Its chairman and editor-in-chief is Steve Forbes. The
-company is headquartered in Jersey City, New Jersey. Sherry Phillips is slated
-to become the CEO of Forbes effective January 1, 2025. Published eight times per
-year, Forbes feature articles on finance, industry, investing, and marketing
-topics. It also reports on related subjects such as technology, communications,
-science, politics, and law. It has an international edition in Asia as well as
-editions produced under license in 27 countries and regions worldwide. The
-magazine is known for its lists and rankings, including its lists of the richest
-Americans (the Forbes 400), of 30 notable people under the age of 30, of
-America's wealthiest celebrities, of the world's top companies (the Forbes
-Global 2000), of the world's most powerful people, and of the world's
-billionaires. The motto of Forbes magazine is "Change the World".
+company is headquartered in Jersey City, New Jersey. Sherry Phillips is the
+current CEO of Forbes as of January 1, 2025. Published eight times per year,
+Forbes feature articles on finance, industry, investing, and marketing topics.
+It also reports on related subjects such as technology, communications, science,
+politics, and law. It has an international edition in Asia as well as editions
+produced under license in 27 countries and regions worldwide. The magazine is
+known for its lists and rankings, including its lists of the richest Americans
+(the Forbes 400), of 30 notable people under the age of 30, of America's
+wealthiest celebrities, of the world's top companies (the Forbes Global 2000),
+of the world's most powerful people, and of the world's billionaires. The motto
+of Forbes magazine is "Change the World".
 
-Total links processed: 140
-Date and time: 2025-05-29 00:09:58
+## 141. Forgery
+URL: https://en.wikipedia.org/wiki/Forgery
+Summary: Forgery is a white-collar crime that generally consists of the false making or
+material alteration of a legal instrument with the specific intent to defraud.
+Tampering with a certain legal instrument may be forbidden by law in some
+jurisdictions but such an offense is not related to forgery unless the tampered
+legal instrument was actually used in the course of the crime to defraud another
+person or entity. Copies, studio replicas, and reproductions are not considered
+forgeries, though they may later become forgeries through knowing and willful
+misrepresentations. Forging money or currency is more often called
+counterfeiting. But consumer goods may also be counterfeits if they are not
+manufactured or produced by the designated manufacturer or producer given on the
+label or flagged by the trademark symbol. When the object forged is a record or
+document it is often called a false document. This usage of "forgery" does not
+derive from metalwork done at a blacksmith's forge, but it has a parallel
+history. A sense of "to counterfeit" is already in the Anglo-French verb forger,
+meaning "falsify". A forgery is essentially concerned with a produced or altered
+object. Where the prime concern of a forgery is less focused on the object
+itself – what it is worth or what it "proves" – than on a tacit statement of
+criticism that is revealed by the reactions the object provokes in others, then
+the larger process is a hoax. In a hoax, a rumor or a genuine object planted in
+a concocted situation, may substitute for a forged physical object. The similar
+crime of fraud is the crime of deceiving another, including through the use of
+objects obtained through forgery. Forgery is one of the techniques of fraud,
+including identity theft. Forgery is one of the threats addressed by security
+engineering. In the 16th century, imitators of Albrecht Dürer's style of
+printmaking improved the market for their own prints by signing them "AD",
+making them forgeries. In the 20th century the art market made forgeries highly
+profitable. There are widespread forgeries of especially valued artists, such as
+drawings originally by Pablo Picasso, Paul Klee, and Henri Matisse. A special
+case of double forgery is the forging of Vermeer's paintings by Han van
+Meegeren, and in its turn the forging of Van Meegeren's work by his son Jacques
+van Meegeren.
+
+## 142. Framing (social sciences)
+URL: https://en.wikipedia.org/wiki/Framing_(social_sciences)
+Summary: In the social sciences, framing comprises a set of concepts and theoretical
+perspectives on how individuals, groups, and societies organize, perceive, and
+communicate about reality. Framing can manifest in thought or interpersonal
+communication. Frames in thought consist of the mental representations,
+interpretations, and simplifications of reality. Frames in communication consist
+of the communication of frames between different actors. Framing is a key
+component of sociology, the study of social interaction among humans. Framing is
+an integral part of conveying and processing data daily. Successful framing
+techniques can be used to reduce the ambiguity of intangible topics by
+contextualizing the information in such a way that recipients can connect to
+what they already know. Framing is mistaken in the world outside of
+communication as bias, or arguments around nature vs nurture. While biases and
+how a person is raised might add to stereotypes or anecdotes gathered, those are
+just possible cultural and biological influences within the set of concepts that
+is framing.  In social theory, framing is a schema of interpretation, a
+collection of anecdotes and stereotypes, that individuals rely on to understand
+and respond to events. In other words, people build a series of mental "filters"
+through biological and cultural influences. They then use these filters to make
+sense of the world. The choices they then make are influenced by their creation
+of a frame. Framing involves social construction of a social phenomenon – by
+mass media sources, political or social movements, political leaders, or other
+actors and organizations. Participation in a language community necessarily
+influences an individual's perception of the meanings attributed to words or
+phrases. Politically, the language communities of advertising, religion, and
+mass media are highly contested, whereas framing in less-sharply defended
+language communities might evolve imperceptibly and organically over cultural
+time frames, with fewer overt modes of disputation. One can view framing in
+communication as positive or negative – depending on the audience and what kind
+of information is being presented. The framing may be in the form of equivalence
+frames, where two or more logically equivalent alternatives are portrayed in
+different ways (see framing effect) or emphasis frames, which simplify reality
+by focusing on a subset of relevant aspects of a situation or issue. In the case
+of "equivalence frames", the information being presented is based on the same
+facts, but the "frame" in which it is presented changes, thus creating a
+reference-dependent perception. The effects of framing can be seen in
+journalism: the frame surrounding the issue can change the reader's perception
+without having to alter the actual facts as the same information is used as a
+base. This is done through the media's choice of certain words and images to
+cover a story (e.g. using the word fetus vs. the word baby). In the context of
+politics or mass-media communication, a frame defines the packaging of an
+element of rhetoric in such a way as to encourage certain interpretations and to
+discourage others. For political purposes, framing often presents facts in such
+a way that implicates a problem that requires a solution. Members of political
+parties attempt to frame issues in a way that makes a solution favoring their
+own political leaning appear as the most appropriate course of action for the
+situation at hand.
+
+## 143. Franchising
+URL: https://en.wikipedia.org/wiki/Franchising
+Summary: Franchising is based on a marketing concept which can be adopted by an
+organization as a strategy for business expansion. Where implemented, a
+franchisor licenses some or all of its know-how, procedures, intellectual
+property, use of its business model, brand, and rights to sell its branded
+products and services to a franchisee. In return, the franchisee pays certain
+fees and agrees to comply with certain obligations, typically set out in a
+franchise agreement. The word franchise is of Anglo-French derivation—from
+franc, meaning 'free'—and is used both as a noun and as a (transitive) verb. For
+the franchisor, use of a franchise system is an alternative business growth
+strategy, compared to expansion through corporate owned outlets or "chain
+stores". Adopting a franchise system business growth strategy for the sale and
+distribution of goods and services minimizes the franchisor's capital investment
+and liability risk. Franchising is rarely an equal partnership, especially in
+the typical arrangement where the franchisee is an individual, unincorporated
+partnership or small privately held corporation, as this will ensure the
+franchisor has substantial legal and/or economic advantages over the franchisee.
+The usual exception to this rule is when the prospective franchisee is also a
+powerful corporate entity controlling a highly lucrative location and/or captive
+market (for example, a large sports stadium) in which prospective franchisors
+must then compete to exclude one another from. However, under specific
+circumstances like transparency, favourable legal conditions, financial means
+and proper market research, franchising can be a vehicle of success for both a
+large franchisor and a small franchisee. Thirty-six countries have laws that
+explicitly regulate franchising, with the majority of all other countries having
+laws which have a direct or indirect effect on franchising. Franchising is also
+used as a foreign market entry mode.
+
+## 144. Gaslighting
+URL: https://en.wikipedia.org/wiki/Gaslighting
+Summary: Gaslighting is the manipulation of someone into questioning their perception of
+reality. The term derives from the 1944 film Gaslight and became popular in the
+mid-2010s.  Some mental health experts have expressed concern that the term has
+been used too broadly. In 2022, The Washington Post described it as an example
+of therapy speak, arguing it had become a buzzword improperly used to describe
+ordinary disagreements.
+
+## 145. Gender in advertising
+URL: https://en.wikipedia.org/wiki/Gender_in_advertising
+Summary: Gender in advertising refers to the images and concepts in advertising that
+depict and reinforce stereotypical gender roles. Advertisements containing
+subliminal or direct messages about physical attractiveness and beauty have been
+of particular interest regarding their impact on men, women, and youth. Gendered
+advertisements have and continue to shape what is expected of a distinct gender,
+regarding physique and attitude.
+
+## 146. Global marketing
+URL: https://en.wikipedia.org/wiki/Global_marketing
+Summary: Global marketing is defined as “marketing on a worldwide scale reconciling or
+taking global operational differences, similarities and opportunities to reach
+global objectives". Global marketing is also a field of study in general
+business management that markets products, solutions, and services to customers
+locally, nationally, and internationally. International marketing is the
+application of marketing principles in more than one country, by companies
+overseas or across national borders. It is done through the export of a
+company's product into another location or entry through a joint venture with
+another firm within the country, or foreign direct investment into the country.
+International marketing is required for the development of the marketing mix for
+the country. International marketing includes the use of existing marketing
+strategies, mix and tools for export, relationship strategies such as
+localization, local product offerings, pricing, production and distribution with
+customized promotions, offers, website, social media and leadership.
+Internationalization and international marketing is when the value of the
+company is "exported and there is inter-firm and firm learning, optimization,
+and efficiency in economies of scale and scope". Evolution The international
+marketplace was transformed by shifts in trading techniques, standards and
+practices. These changes were reinforced and retained by advanced technologies
+and evolving economic relationships among the companies and organizations
+involved in international trade. The traditional ethnocentric conceptual view of
+international marketing trade was counterbalanced by a global view of markets.
+
+## 147. Going concern
+URL: https://en.wikipedia.org/wiki/Going_concern
+Summary: A going concern is an accounting term for a business that is assumed will meet
+its financial obligations when they become due. It functions without the threat
+of liquidation for the foreseeable future, which is usually regarded as at least
+the next 12 months or the specified accounting period (the longer of the two).
+The presumption of going concern for the business implies the basic declaration
+of intention to keep operating its activities at least for the next year, which
+is a basic assumption for preparing financial statements that comprehend the
+conceptual framework of the IFRS. Hence, a declaration of going concern means
+that the business has neither the intention nor the need to liquidate or to
+materially curtail the scale of its operations. Continuation of an entity as a
+going concern is presumed as the basis for financial reporting unless and until
+the entity's liquidation becomes imminent. Preparation of financial statements
+under this presumption is commonly referred to as the going concern basis of
+accounting. If and when an entity's liquidation becomes imminent, financial
+statements are prepared under the liquidation basis of accounting (Financial
+Accounting Standards Board, 2014).
+
+## 148. Gondola (retail)
+URL: https://en.wikipedia.org/wiki/Gondola_(retail)
+Summary: A gondola (usually pronounced  in this context) is a freestanding fixture used
+by retailers to display merchandise. Gondolas typically consist of a flat base
+and a vertical component featuring notches, pegboards, or slatwalls. The
+vertical piece can be fitted with shelves, hooks, or other displays. Gondolas
+placed end-to-end can form rows of shelving, while stand-alone gondolas tend to
+be used for special themed displays. A gondola placed perpendicular to the end
+of a row of other gondolas can be used as an endcap. In Europe, gondola normally
+refers to double-sided shop shelving. In clothing stores, merchandising is
+carried out using 3-specialized shelving for clothing, and makes it possible to
+highlight specific products to increase the average basket at the checkout.
+
+## 149. Goods
+URL: https://en.wikipedia.org/wiki/Goods
+Summary: In economics, goods are anything that is good, usually in the sense that it
+provides welfare or utility to someone. Goods can be contrasted with bads, i.e.
+things that provide negative value for users, like chores or waste. A bad lowers
+a consumer's overall welfare. Economics focuses on the study of economic goods,
+i.e. goods that are scarce; in other words, producing the good requires
+expending effort or resources. Economic goods contrast with free goods such as
+air, for which there is an unlimited supply. Goods are the result of the
+Secondary sector of the economy which involves the transformation of raw
+materials or intermediate goods into goods.
+
+## 150. Got Milk?
+URL: https://en.wikipedia.org/wiki/Got_Milk%3F
+Summary: Got Milk? (often stylized as got milk?) is an American advertising campaign on
+television and YouTube encouraging the consumption of milk and dairy products.
+Created by the advertising agency Goodby Silverstein & Partners for the
+California Milk Processor Board in 1993, it was later licensed for use by milk
+processors and dairy farmers. It was launched in 1993 by the "Aaron Burr"
+television commercial, directed by Michael Bay. The national campaign, run by
+MilkPEP (Milk Processor Education Program) began to add the "got milk?" logo to
+its "Milk Mustache" ads in 1995. In January 2014, MilkPEP discontinued its Milk
+Mustache and "got milk?" advertisements, launching a new campaign with the
+tagline "Milk Life". The campaign continued in California and the "got milk?"
+trademark is licensed to food and merchandise companies for U.S. and
+international sales. The campaign has led to increased milk sales in California,
+although not nationwide.
+
+## 151. Grassroots
+URL: https://en.wikipedia.org/wiki/Grassroots
+Summary: A grassroots movement is one that uses the people in a given district, region or
+community as the basis for a political or continent movement. Grassroots
+movements and organizations use collective action from volunteers at the local
+level to implement change at the local, regional, national, or international
+levels. Grassroots movements are associated with bottom-up, rather than top-down
+decision-making, and are sometimes considered more natural or spontaneous than
+more traditional power structures. Grassroots movements, using self-
+organization, encourage community members to contribute by taking responsibility
+and action for their community. Grassroots movements utilize a variety of
+strategies from fundraising and registering voters, to simply encouraging
+political conversation. Goals of specific movements vary and change, but the
+movements are consistent in their focus on increasing mass participation in
+politics. These political movements may begin as small and at the local level,
+but grassroots politics as Cornel West contends are necessary in shaping
+progressive politics as they bring public attention to regional political
+concerns. The idea of grassroots is often conflated with participatory
+democracy. The Port Huron Statement, a manifesto seeking a more democratic
+society, says that to create a more equitable society, "the grass roots of
+American Society" need to be the basis of civil rights and economic reform
+movements. The terms can be distinguished in that grassroots often refers to a
+specific movement or organization, whereas participatory democracy refers to the
+larger system of governance.
+
+## 152. Green marketing
+URL: https://en.wikipedia.org/wiki/Green_marketing
+Summary: Green marketing refers to the marketing of products that are considered
+environmentally safe. It encompasses a broad range of activities, including
+product modification, changes to the production process, sustainable packaging,
+and modifications to advertising. However, defining green marketing is not a
+simple task. Other terms that are often used interchangeably are environmental
+marketing and ecological marketing. Green, environmental and eco-marketing are
+part of the recent marketing approaches which do not just refocus, adjust or
+enhance existing marketing thinking and practice, but also seek to challenge
+those approaches and provide a substantially different perspective. More
+specifically, these approaches seek to address the lack of fit between marketing
+as it is currently practiced and the ecological and social realities of the
+wider marketing environment. The legal implications of marketing claims call for
+caution or overstated claims can lead to regulatory or civil challenges.  In the
+United States, the Federal Trade Commission provides some guidance on
+environmental marketing claims. The commission is expected to do an overall
+review of this guidance, and the legal standards it contains, in 2011.
+
+## 153. Guerrilla communication
+URL: https://en.wikipedia.org/wiki/Guerrilla_communication
+Summary: Guerrilla communication and communication guerrilla refer to an attempt to
+provoke subversive effects through interventions in the process of
+communication. It can be distinguished from other classes of political action
+because it is not based on the critique of the dominant discourses but in the
+interpretation of the signs in a different way. Its main goal is to make a
+critical non-questioning of the existing, for reasons ranging from political
+activism to marketing. In terms of marketing, journalist Warren Berger explains
+unconventional guerrilla-style advertising as "something that lurks all around,
+hits us where we live, and invariably takes us by surprise". These premises
+apply to the entire spectrum of guerrilla communication because each tactic
+intends to disrupt cognitive schemas and thought processing. The term was
+created in 1997 by Luther Blissett and Sonja Brünzels, with the publication of
+Kommunication Guerrilla Handbook (originally in German, translated in 2001 to
+Spanish and Italian). Both pertain to autonome a.f.r.i.k.a gruppe, which
+includes many people involved in communication guerrillas such as activists and
+non-artists living in different German peripheries. However, it was used before
+in 1984 by Jay Conrad Levinson, as a marketing strategy for small businesses.
+
+## 154. Guerrilla marketing
+URL: https://en.wikipedia.org/wiki/Guerrilla_marketing
+Summary: Guerrilla marketing is an advertisement strategy in which a company uses
+surprise and/or unconventional interactions in order to promote a product or
+service. It is a type of publicity. The term was popularized by Jay Conrad
+Levinson's 1984 book Guerrilla Marketing. Guerrilla marketing uses multiple
+techniques and practices to establish direct contact with potential customers.
+One of the goals of this interaction is to cause an emotional reaction in the
+clients, and the ultimate goal of marketing is to induce people to remember
+products or brands in a different way than they might have been accustomed to.
+As traditional advertising media channels—such as print, radio, television, and
+direct mail—lose popularity, marketers and advertisers have felt compelled to
+find new strategies to convey their commercial messages to the consumer.
+Guerrilla marketing focuses on taking the consumer by surprise to make a
+dramatic impression about the product or brand. This in turn creates buzz about
+the product being marketed. It is a way of advertising that increases consumers'
+engagement with the product or service, and is designed to create a memorable
+experience. By creating a memorable experience, it also increases the likelihood
+that a consumer, or someone who interacted with the campaign, will tell their
+friends about the product. Thus, via word of mouth, the product or service being
+advertised reaches more people than initially anticipated. Guerrilla marketing
+is relatively inexpensive, and focuses more on reach rather than frequency. For
+guerrilla campaigns to be successful, companies generally do not need to spend
+large amounts of money, but they need to have imagination, energy and time.
+Therefore, guerrilla marketing has the potential to be effective for small
+businesses, especially if they are competing against bigger companies. The
+message to consumers is often designed to be clear and concise. This type of
+marketing also works on the unconscious mind, because purchasing decisions are
+often made by the unconscious mind. To keep the product or service in the
+unconscious mind requires repetition, so if a buzz is created around a product,
+and if it is shared amongst friends, then this mechanism enables repetition.
+
+## 155. H-index
+URL: https://en.wikipedia.org/wiki/H-index
+Summary: The h-index is an author-level metric that measures both the productivity and
+citation impact of the publications, initially used for an individual scientist
+or scholar. The h-index correlates with success indicators such as winning the
+Nobel Prize, being accepted for research fellowships and holding positions at
+top universities. The index is based on the set of the scientist's most cited
+papers and the number of citations that they have received in other
+publications. The index has more recently been applied to the productivity and
+impact of a scholarly journal as well as a group of scientists, such as a
+department or university or country. The index was suggested in 2005 by Jorge E.
+Hirsch, a physicist at UC San Diego, as a tool for determining theoretical
+physicists' relative quality and is sometimes called the Hirsch index or Hirsch
+number. Hirsch intended the h-index to address the main disadvantages of other
+bibliometric indicators. The total number of papers metric does not account for
+the quality of scientific publications. The total number of citations metric, on
+the other hand, can be heavily affected by participation in a single publication
+of major influence (for instance, methodological papers proposing successful new
+techniques, methods or approximations, which can generate a large number of
+citations). The index works best when comparing scholars working in the same
+field, since citation conventions differ widely among different fields. The
+h-index is intended to measure simultaneously the quality and quantity of
+scientific output. The Kendall's correlation  of h-index with scientific awards
+in physics was found at 34 percent in 2010 and zero percent in 2019.
+
+## 156. Hacktivism
+URL: https://en.wikipedia.org/wiki/Hacktivism
+Summary: Hacktivism (or hactivism; a portmanteau of hack and activism), is the use of
+computer-based techniques such as hacking as a form of civil disobedience to
+promote a political agenda or social change. A form of Internet activism with
+roots in hacker culture and hacker ethics, its ends are often related to free
+speech, human rights, or freedom of information movements. Hacktivist activities
+span many political ideals and issues. Hyphanet, a peer-to-peer platform for
+censorship-resistant communication, is a prime example of translating political
+thought and freedom of speech into code. Hacking as a form of activism can be
+carried out by a singular activist or through a network of activists, such as
+Anonymous and WikiLeaks, working in collaboration toward common goals without an
+overarching authority figure. For context, according to a statement by the U.S.
+Justice Department, Julian Assange, the founder of WikiLeaks, plotted with
+hackers connected to the "Anonymous" and "LulzSec" groups, who have been linked
+to multiple cyberattacks worldwide. In 2012, Assange, who was being held in the
+United Kingdom on a request for extradition from the United States, gave the
+head of LulzSec a list of targets to hack and informed him that the most
+significant leaks of compromised material would come from the National Security
+Agency, the Central Intelligence Agency, or the New York Times. "Hacktivism" is
+a controversial term with several meanings. The word was coined to characterize
+electronic direct action as working toward social change by combining
+programming skills with critical thinking. But just as hack can sometimes mean
+cyber crime, hacktivism can be used to mean activism that is malicious,
+destructive, and undermining the security of the Internet as a technical,
+economic, and political platform. In comparison to previous forms of social
+activism, hacktivism has had unprecedented success, bringing in more
+participants, using more tools, and having more influence in that it has the
+ability to alter elections, begin conflicts, and take down businesses. According
+to the United States 2020–2022 Counterintelligence Strategy, in addition to
+state adversaries and transnational criminal organizations, "ideologically
+motivated entities such as hacktivists, leaktivists, and public disclosure
+organizations, also pose significant threats".
+
+## 157. Half-truth
+URL: https://en.wikipedia.org/wiki/Half-truth
+Summary: A half-truth is a deceptive statement that includes some element of truth. The
+statement might be partly true, the statement may be totally true, but only part
+of the whole truth, or it may use some deceptive element, such as improper
+punctuation, or double meaning, especially if the intent is to deceive, evade,
+blame or misrepresent the truth.
+
+## 158. Harper (publisher)
+URL: https://en.wikipedia.org/wiki/Harper_(publisher)
+Summary: Harper is an American publishing house, the flagship imprint of global publisher
+HarperCollins, based in New York City. Founded in New York in 1817 by James
+Harper and his brother John, the company operated as J. & J. Harper until 1833,
+when it changed its name to Harper & Brothers, reflecting the inclusion of
+Joseph and Fletcher Harper. Harper began publishing Harper's Magazine, Harper's
+Weekly, and other periodicals beginning in the 1850s. From 1962 to 1990, the
+company was known as Harper & Row after its merger with Row, Peterson & Company.
+Harper & Row was purchased in 1987 by News Corporation and combined with William
+Collins, Sons, its United Kingdom counterpart, in 1990 to form HarperCollins,
+although the Harper name has been used in its place since 2007.
+
+## 159. Harvard Business School Press
+URL: https://en.wikipedia.org/wiki/Harvard_Business_Publishing
+Summary: Harvard Business Publishing (HBP) is a publisher founded in 1994 as a not-for-
+profit, independent corporation and an affiliate of Harvard Business School
+(distinct from Harvard University Press), with a focus on improving business
+management practices. The company offers articles, books, case studies,
+simulations, videos, learning programs, and digital tools to organizations and
+subscribers. HBP consists of three market units: Education, Corporate Learning,
+and Harvard Business Review Group. Their offering consists of print and digital
+media (Harvard Business Review, Harvard Business Review Press books, Harvard
+Business School cases), events, digital learning (Harvard ManageMentor, HMM
+Spark), blended learning, and campus experiences.
+
+## 160. Hdl (identifier)
+URL: https://en.wikipedia.org/wiki/Handle_System
+Summary: The Handle System is a proprietary registry assigning persistent identifiers, or
+handles, to information resources, and for resolving "those handles into the
+information necessary to locate, access, and otherwise make use of the
+resources". As with handles used elsewhere in computing, Handle System handles
+are opaque, and encode no information about the underlying resource, being bound
+only to metadata regarding the resource. Consequently, the handles are not
+rendered invalid by changes to the metadata. The system was developed by Bob
+Kahn at the Corporation for National Research Initiatives (CNRI) as a part of
+the Digital Object Architecture (DOA). The original work was funded by the
+Defense Advanced Research Projects Agency (DARPA) between 1992 and 1996, as part
+of a wider framework for distributed digital object services, and was thus
+contemporaneous with the early deployment of the World Wide Web, with similar
+goals. The Handle System was first implemented in autumn 1994, and was
+administered and operated by CNRI until December 2015, when a new "multi-primary
+administrator" (MPA) mode of operation was introduced. The DONA Foundation now
+administers the system's Global Handle Registry and accredits MPAs, including
+CNRI and the International DOI Foundation. The system currently provides the
+underlying infrastructure for such handle-based systems as Digital Object
+Identifiers (DOI) and DSpace, which are mainly used to provide access to
+scholarly, professional and government documents and other information
+resources. CNRI provides specifications and the source code for reference
+implementations for the servers and protocols used in the system under a
+royalty-free "Public License", similar to an open source license. Thousands of
+handle services are currently running. Over 1000 of these are at universities
+and libraries, but they are also in operation at national laboratories, research
+groups, government agencies, and commercial enterprises, receiving over 200
+million resolution requests per month.
+
+## 161. Historical negationism
+URL: https://en.wikipedia.org/wiki/Historical_negationism
+Summary: Historical negationism, also called historical denialism, is falsification or
+distortion of the historical record. This is not the same as historical
+revisionism, a broader term that extends to newly evidenced, fairly reasoned
+academic reinterpretations of history. In attempting to revise and influence the
+past, historical negationism acts as illegitimate historical revisionism by
+using techniques inadmissible in proper historical discourse, such as presenting
+known forged documents as genuine, inventing ingenious but implausible reasons
+for distrusting genuine documents, attributing conclusions to books and sources
+that report the opposite, manipulating statistical series to support the given
+point of view, and deliberately mistranslating traditional or modern texts. Some
+countries, such as Germany, have criminalized the negationist revision of
+certain historical events, while others take a more cautious position for
+various reasons, such as protection of free speech. Others have in the past
+mandated negationist views, such as the US state of California, where it is
+claimed that some schoolchildren have been explicitly prevented from learning
+about the California genocide. Notable examples of negationism include denials
+of the Holocaust, Nakba, Holodomor, Armenian genocide, the Lost Cause of the
+Confederacy, and the clean Wehrmacht myth. In literature, it has been
+imaginatively depicted in some works of fiction, such as Nineteen Eighty-Four,
+by George Orwell. In modern times, negationism may spread via political,
+religious agendas through state media, mainstream media, and new media, such as
+the Internet.
+
+## 162. History of advertising
+URL: https://en.wikipedia.org/wiki/History_of_advertising
+Summary: The history of advertising can be traced to ancient civilizations. It became a
+major force in capitalist economies in the mid-19th century, based primarily on
+newspapers and magazines. In the 20th century, advertising grew rapidly with new
+technologies such as direct mail, radio, television, the internet, and mobile
+devices. Between 1919 and 2007 advertising averaged 2.2 percent of Gross
+Domestic Product in the United States.
+
+## 163. History of marketing
+URL: https://en.wikipedia.org/wiki/History_of_marketing
+Summary: The study of the history of marketing, as a discipline, is important because it
+helps to define the baselines upon which change can be recognised and understand
+how the discipline evolves in response to those changes. The practice of
+marketing has been known for millennia, but the term "marketing" used to
+describe commercial activities assisting the buying and selling of products or
+services came into popular use in the late nineteenth century. The study of the
+history of marketing as an academic field emerged in the early twentieth
+century. Marketers tend to distinguish between the history of marketing practice
+and the history of marketing thought:  the history of marketing practice refers
+to an investigation into the ways that marketing has been practiced; and how
+those practices have evolved over time as they respond to changing socio-
+economic conditions the history of marketing thought refers to an examination of
+the ways that marketing has been studied and taught Although the history of
+marketing thought and the history of marketing practice are distinct fields of
+study, they intersect at different junctures. Robert J. Keith's article "The
+Marketing Revolution", published in 1960, was a pioneering study of the history
+of marketing practice. In 1976, the publication of Robert Bartel's book, The
+History of Marketing Thought, marked a turning-point in the understanding of how
+marketing theory evolved since it first emerged as a separate discipline around
+the turn of last century.
+
+## 164. Hoax
+URL: https://en.wikipedia.org/wiki/Hoax
+Summary: A hoax (plural: hoaxes) is a widely publicised falsehood created to deceive its
+audience with false and often astonishing information, with the either malicious
+or humorous intent of causing shock and interest in as many people as possible.
+Some hoaxers intend to eventually unmask their representations as having been a
+hoax so as to expose their victims as fools; seeking some form of profit, other
+hoaxers hope to maintain the hoax indefinitely, so that it is only when
+skeptical people willing to investigate their claims publish their findings,
+that the hoaxers are finally revealed as such.
+
+## 165. Horizontal integration
+URL: https://en.wikipedia.org/wiki/Horizontal_integration
+Summary: Horizontal integration is the process of a company increasing production of
+goods or services at the same level of the value chain, in the same industry. A
+company may do this via internal expansion or through mergers and acquisitions.
+The process can lead to monopoly if a company captures the vast majority of the
+market for that product or service. Benefits of horizontal integration include:
+increasing economies of scale, expanding an existing market, and improving
+product differentiation.  Horizontal integration contrasts with vertical
+integration, where companies integrate multiple stages of production of a small
+number of production units.
+
+## 166. ISBN (identifier)
+URL: https://en.wikipedia.org/wiki/ISBN
+Summary: The International Standard Book Number (ISBN) is a numeric commercial book
+identifier that is intended to be unique. Publishers purchase or receive ISBNs
+from an affiliate of the International ISBN Agency. A different ISBN is assigned
+to each separate edition and variation of a publication, but not to a simple
+reprinting of an existing item. For example, an e-book, a paperback and a
+hardcover edition of the same book must each have a different ISBN, but an
+unchanged reprint of the hardcover edition keeps the same ISBN. The ISBN is ten
+digits long if assigned before 2007, and thirteen digits long if assigned on or
+after 1 January 2007. The method of assigning an ISBN is nation-specific and
+varies between countries, often depending on how large the publishing industry
+is within a country. The first version of the ISBN identification format was
+devised in 1967, based upon the 9-digit Standard Book Numbering (SBN) created in
+1966. The 10-digit ISBN format was developed by the International Organization
+for Standardization (ISO) and was published in 1970 as international standard
+ISO 2108 (any 9-digit SBN can be converted to a 10-digit ISBN by prefixing it
+with a zero). Privately published books sometimes appear without an ISBN. The
+International ISBN Agency sometimes assigns ISBNs to such books on its own
+initiative. A separate identifier code of a similar kind, the International
+Standard Serial Number (ISSN), identifies periodical publications such as
+magazines and newspapers. The International Standard Music Number (ISMN) covers
+musical scores.
+
+## 167. ISSN (identifier)
+URL: https://en.wikipedia.org/wiki/ISSN
+Summary: An International Standard Serial Number (ISSN) is an eight-digit to uniquely
+identify a periodical publication (periodical), such as a magazine. The ISSN is
+especially helpful in distinguishing between serials with the same title. ISSNs
+are used in ordering, cataloging, interlibrary loans, and other practices in
+connection with serial literature. The ISSN system was first drafted as an
+International Organization for Standardization (ISO) international standard in
+1971 and published as ISO 3297 in 1975. ISO subcommittee TC 46/SC 9 is
+responsible for maintaining the standard. When a serial with the same content is
+published in more than one media type, a different ISSN is assigned to each
+media type. For example, many serials are published both in print and electronic
+media. The ISSN system refers to these types as print ISSN (p-ISSN) and
+electronic ISSN (e-ISSN). Consequently, as defined in ISO 3297:2007, every
+serial in the ISSN system is also assigned a linking ISSN (ISSN-L), typically
+the same as the ISSN assigned to the serial in its first published medium, which
+links together all ISSNs assigned to the serial in every medium.
+
+## 168. In-game advertising
+URL: https://en.wikipedia.org/wiki/In-game_advertising
+Summary: In-game advertising (IGA) is advertising in electronic games.  IGA differs from
+advergames, which refers to games specifically made to advertise a product. The
+IGA industry is large and growing. In-game advertising generated $34 million in
+2004, $56 million in 2005, $80 million in 2006, and $295 million in 2007. In
+2009, spending on IGA was estimated to reach $699 million USD, $1 billion by
+2014 and according to Forbes is anticipated to grow to $7.2 billion by 2016. The
+earliest known IGA was the 1978 computer game Adventureland, which inserted a
+self-promotional advertisement for its next game, Pirate Adventure. IGA can be
+integrated into the game either through a display in the background, such as an
+in-game billboard or a commercial during the pause created when a game loads, or
+highly integrated within the game so that the advertised product is necessary to
+complete part of the game or is featured prominently within cutscenes. Due to
+the custom programming required, dynamic advertising is usually presented in the
+background; static advertisements can appear as either. One of the advantages of
+IGA over traditional advertisements is that consumers are less likely to
+multitask with other media while playing a game, however, some attention is
+still divided between the gameplay, controls, and the advertisement.
+
+## 169. Indoctrination
+URL: https://en.wikipedia.org/wiki/Indoctrination
+Summary: Indoctrination is the process of inculcating (teaching by repeated instruction)
+a person or people into an ideology, often avoiding critical analysis. It can
+refer to a general process of socialization. The term often implies forms of
+brainwashing or disagreeable forms of socialization. However, it can refer to
+both positive and negative forms of cultural transmission, and some academics
+consider it an integral element of education. The precise boundary between
+education and indoctrination is contested. The concept originally referred to
+education, but after World War I, the term took on a pejorative meaning akin to
+brainwashing or propaganda (popular among Flat Earth cultists). Some distinguish
+indoctrination from education on the basis that the indoctrinated person is
+expected not to question or critically examine the doctrine they have learned.
+As such the term may be used pejoratively or as a buzz word, often in the
+context of political opinions, theology, religious dogma or anti-religious
+convictions.  Common vectors of indoctrination include the state, educational
+institutions, religions, the arts, culture, and the media. Understood as a
+process of socialization into “ideal-type” citizens, indoctrination takes place
+in both democratic and authoritarian systems of government.
+
+## 170. Industrial marketing
+URL: https://en.wikipedia.org/wiki/Industrial_marketing
+Summary: Industrial marketing or business-to-business marketing is the marketing of goods
+and services by one business to another. Industrial goods are those an industry
+uses to produce an end product from one or more raw material. The term
+industrial marketing has largely been replaced by the term business-to-business
+marketing (B2B).
+
+## 171. Inflation
+URL: https://en.wikipedia.org/wiki/Inflation
+Summary: In economics, inflation is an increase in the average price of goods and
+services in terms of money.: 579  This increase is measured using a price index,
+typically a consumer price index (CPI). When the general price level rises, each
+unit of currency buys fewer goods and services; consequently, inflation
+corresponds to a reduction in the purchasing power of money. The opposite of CPI
+inflation is deflation, a decrease in the general price level of goods and
+services. The common measure of inflation is the inflation rate, the annualized
+percentage change in a general price index.: 22–32  Changes in inflation are
+widely attributed to fluctuations in real demand for goods and services (also
+known as demand shocks, including changes in fiscal or monetary policy), changes
+in available supplies such as during energy crises (also known as supply
+shocks), or changes in inflation expectations, which may be self-fulfilling.
+Moderate inflation affects economies in both positive and negative ways. The
+negative effects would include an increase in the opportunity cost of holding
+money; uncertainty over future inflation, which may discourage investment and
+savings; and, if inflation were rapid enough, shortages of goods as consumers
+begin hoarding out of concern that prices will increase in the future. Positive
+effects include reducing unemployment due to nominal wage rigidity,: 238–255 
+allowing the central bank greater freedom in carrying out monetary policy,
+encouraging loans and investment instead of money hoarding, and avoiding the
+inefficiencies associated with deflation. Today, most economists favour a low
+and steady rate of inflation. Low (as opposed to zero or negative) inflation
+reduces the probability of economic recessions by enabling the labor market to
+adjust more quickly in a downturn and reduces the risk that a liquidity trap
+prevents monetary policy from stabilizing the economy while avoiding the costs
+associated with high inflation. The task of keeping the rate of inflation low
+and stable is usually given to central banks that control monetary policy,
+normally through the setting of interest rates and by carrying out open market
+operations.
+
+## 172. Influence-for-hire
+URL: https://en.wikipedia.org/wiki/Influence-for-hire
+Summary: Influence-for-hire or collective influence, refers to the economy that has
+emerged around buying and selling influence on social media platforms.
+
+## 173. Influence of mass media
+URL: https://en.wikipedia.org/wiki/Influence_of_mass_media
+Summary: In media studies, mass communication, media psychology, communication theory,
+and sociology, media influence and the media effect are topics relating to mass
+media and media culture's effects on individuals' or audiences' thoughts,
+attitudes, and behaviors. Through written, televised, or spoken channels, mass
+media reach large audiences. Mass media's role in shaping modern culture is a
+central issue for the study of culture. Media influence is the actual force
+exerted by a media message, resulting in either a change or reinforcement in
+audience or individual beliefs. Whether a media message has an effect on any of
+its audience members is contingent on many factors, including audience
+demographics and psychological characteristics. These effects can be positive or
+negative, abrupt or gradual, short-term or long-lasting. Not all effects result
+in change; some media messages reinforce an existing belief. Researchers examine
+an audience after media exposure for changes in cognition, belief systems, and
+attitudes, as well as emotional, physiological and behavioral effects. The
+influences of mass media (or 'media effects') are observed in various aspects of
+human life, from voting behaviors to perceptions of violence, from evaluations
+of scientists to our understanding of others' opinions. The overall influence of
+mass media has changed drastically over the years, and will continue to do so as
+the media itself develops. In the new media environment, we have dual identities
+- consumers and creators. We not only obtain information through new media, but
+also disseminate information to wide audiences. Further, the influence of the
+media on the psychosocial development of children is profound. Thus, it is
+important for physicians to discuss with parents their child's exposure to media
+and to provide guidance on age-appropriate use of any media, including
+television, radio, music, video games and the Internet. There are several
+scholarly studies which addresses media and its effects. Bryant and Zillmann
+defined media effects as "the social, cultural, and psychological impact of
+communicating via the mass media". Perse stated that media effects researchers
+study "how to control, enhance, or mitigate the impact of the mass media on
+individuals and society". Lang stated media effects researchers study "what
+types of content, in what type of medium, affect which people, in what
+situations". McLuhan points out in his media ecology theory that "The medium is
+the message."
+
+## 174. Influencer marketing
+URL: https://en.wikipedia.org/wiki/Influencer_marketing
+Summary: Influencer marketing (also known as influence marketing) is a form of social
+media marketing involving endorsements and product placement from influencers,
+individuals and organizations who have a purported expert level of knowledge or
+social influence in their field.  Influencers are people (or something) with the
+power to affect the buying habits or quantifiable actions of others by uploading
+some form of original—often sponsored—content to social media platforms like
+Instagram, YouTube, Snapchat, TikTok or other online channels.  Influencer
+marketing is when a brand enrolls influencers who have an established
+credibility and audience on social media platforms to discuss or mention the
+brand in a social media post.  Influencer content may be framed as testimonial
+advertising, according to the Federal Trade Commission in the United States. The
+FTC started enforcing this on a large scale in 2016, sending letters to several
+companies and influencers who had failed to disclose sponsored content. Many
+Instagram influencers started using #ad in response and feared that this would
+affect their income. However, fans increased their engagement after disclosure,
+being happy that they were landing such deals. This success led to some creators
+creating their own product lines in 2017. Some influencers fake sponsored
+content to gain credibility and promote themselves. Backlash to sponsored
+content became more prominent in mid-2018, leading to many influencers to focus
+instead on authenticity. Influencer marketing began with early celebrity
+endorsements and has rapidly spread since the rise of popular social media
+platforms like Instagram, TikTok, and YouTube. Influencer marketing shows how
+influencers have become very important figures in fashion and beauty with a very
+impactful voice and opinion among consumers. The legacy of influencer marketing
+highlights its power in shaping consumer behavior, with concerns about
+authenticity and transparency continuing to grow.
+
+## 175. Infomercial
+URL: https://en.wikipedia.org/wiki/Infomercial
+Summary: An infomercial is a form of television commercial that resembles regular TV
+programming yet is intended to promote or sell a product, service or idea. It
+generally includes a toll-free telephone number or website. Most often used as a
+form of direct response television (DRTV), they are often program‑length
+commercials (long-form infomercials), and are typically 28:30 or 58:30 minutes
+in length. Infomercials are also known as paid programming (or teleshopping in
+Europe). This phenomenon started in the United States, where infomercials were
+typically shown overnight and early morning (usually 1:00 a.m. to 9:00 a.m.),
+outside peak prime time hours for commercial broadcasters. Some television
+stations chose to air infomercials as an alternative to the former practice of
+signing off, while other channels air infomercials 24 hours a day. Some stations
+also choose to air infomercials during the daytime hours, mostly on weekends, to
+fill in for unscheduled network or syndicated programming. By 2009, most
+infomercial spending in the United States occurred outside of the traditional
+overnight hours. Stations in most countries around the world have instituted
+similar media structures. The infomercial industry is worth over $200 billion.
+Washington, D.C.–based National Infomercial Marketing Association was formed in
+late 1990; by 1993, "it had more than 200" members committed to standards "with
+teeth". While the term "infomercial" was originally applied only to television
+advertising, it is now sometimes used to refer to any presentation (often on
+video) which presents a significant amount of information in an actual, or
+perceived, attempt to promote a point of view. When used this way, the term may
+be meant to carry an implication that the party making the communication or
+political speech is exaggerating truths or hiding important facts. The New York
+Times cited a professional in the field as saying that "infomercial companies
+tend to do well during recessions."
+
+## 176. Information warfare
+URL: https://en.wikipedia.org/wiki/Information_warfare
+Summary: Information warfare (IW) is the battlespace use and management of information
+and communication technology (ICT) in pursuit of a competitive advantage over an
+opponent. It is different from cyberwarfare that attacks computers, software,
+and command control systems. Information warfare is the manipulation of
+information trusted by a target without the target's awareness so that the
+target will make decisions against their interest but in the interest of the one
+conducting information warfare. As a result, it is not clear when information
+warfare begins, ends, and how strong or destructive it is. Information warfare
+may involve the collection of tactical information, assurance(s) that one's
+information is valid, spreading of propaganda or disinformation to demoralize or
+manipulate the enemy and the public, undermining the quality of the opposing
+force's information, and denial of information-collection opportunities to
+opposing forces. Information warfare is closely linked to psychological warfare.
+
+## 177. Infotainment
+URL: https://en.wikipedia.org/wiki/Infotainment
+Summary: Infotainment (a portmanteau of information and entertainment), also called soft
+news as a way to distinguish it from serious journalism or hard news, is a type
+of media, usually television or online, that provides a combination of
+information and entertainment. The term may be used disparagingly to devalue
+infotainment or soft news subjects in favor of more serious hard news subjects.
+Infotainment-based websites and social media apps gained traction due to their
+focused publishing of infotainment content, e.g. BuzzFeed.
+
+## 178. Instagram
+URL: https://en.wikipedia.org/wiki/Instagram
+Summary: Instagram is an American photo and short-form video sharing social networking
+service owned by Meta Platforms. It allows users to upload media that can be
+edited with filters, be organized by hashtags, and be associated with a location
+via geographical tagging. Posts can be shared publicly or with preapproved
+followers. Users can browse other users' content by tags and locations, view
+trending content, like photos, and follow other users to add their content to a
+personal feed. A Meta-operated image-centric social media platform, it is
+available on iOS, Android, Windows 10, and the web. Users can take photos and
+edit them using built-in filters and other tools, then share them on other
+social media platforms like Facebook. It supports 32 languages including
+English, Hindi,  Spanish, French, Korean, and Japanese. Instagram was originally
+distinguished by allowing content to be framed only in a square (1:1) aspect
+ratio of 640 pixels to match the display width of the iPhone at the time. In
+2015, this restriction was eased with an increase to 1080 pixels. It also added
+messaging features, the ability to include multiple images or videos in a single
+post, and a Stories feature—similar to its main competitor, Snapchat, which
+allowed users to post their content to a sequential feed, with each post
+accessible to others for 24 hours. As of January 2019, Stories was used by 500
+million people daily.  Instagram was launched for iOS in October 2010 by Kevin
+Systrom and Mike Krieger. It rapidly gained popularity, reaching 1 million
+registered users in two months, 10 million in a year, and 1 billion in June
+2018. In April 2012, Facebook acquired the service for approximately US$1
+billion in cash and stock. The Android version of Instagram was released in
+April 2012, followed by a feature-limited desktop interface in November 2012, a
+Fire OS app in June 2014, and an app for Windows 10 in October 2016. Although
+often admired for its success and influence, Instagram has also been criticized
+for negatively affecting teens' mental health, its policy and interface changes,
+its alleged censorship, and illegal and inappropriate content uploaded by users.
+
+## 179. Integrated marketing communications
+URL: https://en.wikipedia.org/wiki/Marketing_communications
+Summary: Marketing communications (MC, marcom(s), marcomm(s) or just simply
+communications) refers to the use of different marketing channels and tools in
+combination. Marketing communication channels focus on how businesses
+communicate a message to their desired market, or the market in general. It can
+also include the internal communications of the organization. Marketing
+communication tools include advertising, personal selling, direct marketing,
+sponsorship, communication, public relations, social media, customer journey and
+promotion. MC are made up of the marketing mix which is made up of the 4 Ps:
+Price, Promotion, Place and Product, for a business selling goods, and made up
+of 7 Ps: Price, Promotion, Place, Product, People, Physical evidence and
+Process, for a service-based business.
+
+## 180. Internet activism
+URL: https://en.wikipedia.org/wiki/Internet_activism
+Summary: Internet activism involves the use of electronic-communication technologies such
+as social media, e-mail, and podcasts for various forms of activism to enable
+faster and more effective communication by citizen movements, the delivery of
+particular information to large and specific audiences, as well as coordination.
+Internet technologies are used by activists for cause-related fundraising,
+community building, lobbying, and organizing. A digital-activism campaign is "an
+organized public effort, making collective claims on a target authority, in
+which civic initiators or supporters use digital media."  Research has started
+to address specifically how activist/advocacy groups in the  U.S. and in Canada
+use social media to achieve digital-activism objectives.
+
+## 181. Internet censorship
+URL: https://en.wikipedia.org/wiki/Internet_censorship
+Summary: Internet censorship is the legal control or suppression of what can be accessed,
+published, or viewed on the Internet. Censorship is most often applied to
+specific internet domains (such as Wikipedia.org, for example) but exceptionally
+may extend to all Internet resources located outside the jurisdiction of the
+censoring state. Internet censorship may also put restrictions on what
+information can be made internet accessible. Organizations providing internet
+access – such as schools and libraries – may choose to preclude access to
+material that they consider undesirable, offensive, age-inappropriate or even
+illegal, and regard this as ethical behavior rather than censorship. Individuals
+and organizations may engage in self-censorship of material they publish, for
+moral, religious, or business reasons, to conform to societal norms, political
+views, due to intimidation, or out of fear of legal or other consequences. The
+extent of Internet censorship varies on a country-to-country basis. While some
+countries have moderate Internet censorship, other countries go as far as to
+limit the access of information such as news and suppress and silence discussion
+among citizens. Internet censorship also occurs in response to or in
+anticipation of events such as elections, protests, and riots. An example is the
+increased censorship due to the events of the Arab Spring. Other types of
+censorship include the use of copyrights, defamation, harassment, and various
+obscene material claims as a way to deliberately suppress content. Support for
+and opposition to Internet censorship also varies. In a 2012 Internet Society
+survey, 71% of respondents agreed that "censorship should exist in some form on
+the Internet". In the same survey, 83% agreed that "access to the Internet
+should be considered a basic human right" and 86% agreed that "freedom of
+expression should be guaranteed on the Internet". Perception of internet
+censorship in the US is largely based on the First Amendment and the right for
+expansive free speech and access to content without regard to the consequences.
+According to GlobalWebIndex, over 400 million people use virtual private
+networks to circumvent censorship or for increased user privacy.
+
+## 182. Internet marketing
+URL: https://en.wikipedia.org/wiki/Digital_marketing
+Summary: Digital marketing is the component of marketing that uses the Internet and
+online-based digital technologies such as desktop computers, mobile phones, and
+other digital media and platforms to promote products and services. It has
+significantly transformed the way brands and businesses utilize technology for
+marketing since the 1990s and 2000s. As digital platforms became increasingly
+incorporated into marketing plans and everyday life, and as people increasingly
+used digital devices instead of visiting physical shops, digital marketing
+campaigns have become prevalent, employing combinations of methods. Some of
+these methods include: search engine optimization (SEO), search engine marketing
+(SEM), content marketing, influencer marketing, content automation, campaign
+marketing, data-driven marketing, e-commerce marketing, social media marketing,
+social media optimization, e-mail direct marketing, display advertising,
+e-books, and optical disks and games. Digital marketing extends to non-Internet
+channels that provide digital media, such as television, mobile phones (SMS and
+MMS), callbacks, and on-hold mobile ringtones. The extension to non-Internet
+channels differentiates digital marketing from online marketing.
+
+## 183. JSTOR (identifier)
+URL: https://en.wikipedia.org/wiki/JSTOR
+Summary: JSTOR ( JAY-stor; short for Journal Storage) is a digital library of academic
+journals, books, and primary sources founded in 1994. Originally containing
+digitized back issues of academic journals, it now encompasses books and other
+primary sources as well as current issues of journals in the humanities and
+social sciences. It provides full-text searches of almost 2,000 journals. Most
+access is by subscription but some of the site is public domain, and open access
+content is available free of charge.
+
+## 184. Josiah Wedgwood
+URL: https://en.wikipedia.org/wiki/Josiah_Wedgwood
+Summary: Josiah Wedgwood  (12 July 1730 – 3 January 1795) was an English potter,
+entrepreneur and abolitionist. Founding the Wedgwood company in 1759, he
+developed improved pottery bodies by systematic experimentation, and was the
+leader in the industrialisation of the manufacture of European pottery. The
+renewed classical enthusiasms of the late 1760s and early 1770s were of major
+importance to his sales promotion. His expensive goods were in much demand from
+the upper classes, while he used emulation effects to market cheaper sets to the
+rest of society. Every new invention that Wedgwood produced – green glaze,
+creamware, black basalt, and jasperware – was quickly copied. Having once
+achieved efficiency in production, he obtained efficiencies in sales and
+distribution. His showrooms in London gave the public the chance to see his
+complete range of tableware. Wedgwood's company never made porcelain during his
+lifetime, but specialised in fine earthenwares and stonewares that had many of
+the same qualities, but were considerably cheaper.  He made great efforts to
+keep the designs of his wares in tune with current fashion.   He was an early
+adopter of transfer printing which gave similar effects to hand-painting for a
+far lower cost. Meeting the demands of the consumer revolution that helped drive
+the Industrial Revolution in Britain, Wedgwood is credited as a pioneer of
+modern marketing. He pioneered direct mail, money-back guarantees, self-service,
+free delivery, buy one get one free, and illustrated catalogues. A prominent
+abolitionist fighting slavery, Wedgwood is remembered too for his Am I Not a Man
+And a Brother? anti-slavery medallion, which had been commissioned by Joseph
+Hooper, a founder of the Society for Effecting the Abolition of the Slave Trade.
+The medallion used the design from that society. Wedgwood was a member of the
+Darwin–Wedgwood family, and he was the grandfather of Charles and Emma Darwin.
+
+## 185. Journal of Consumer Research
+URL: https://en.wikipedia.org/wiki/Journal_of_Consumer_Research
+Summary: The Journal of Consumer Research is a bimonthly peer-reviewed academic journal
+covering research on the psychological aspects of consumer behavior. It was
+established in 1974 and originally published by University of Chicago Press.
+Since 2015 it has been published by Oxford University Press. According to the
+Journal Citation Reports, the journal has a 2016 impact factor of 3.800, ranking
+it 19th out of 121 journals in the category "Business."   == References ==
+
+## 186. Journal of Marketing
+URL: https://en.wikipedia.org/wiki/Journal_of_Marketing
+Summary: The Journal of Marketing is a bimonthly scholarly journal that publishes peer-
+reviewed research in marketing. It is published by the American Marketing
+Association. Established in 1936, It is the fourth-oldest major journal covering
+marketing issues; others include the Harvard Business Review (1920), the Journal
+of Retailing (1925), and the Journal of Business (1928).
+
+## 187. Journal of Marketing Research
+URL: https://en.wikipedia.org/wiki/Journal_of_Marketing_Research
+Summary: Journal of Marketing Research is a bimonthly peer-reviewed academic journal
+published by the American Marketing Association. It was established in 1964 and
+covers all aspects of marketing research. According to the Journal Citation
+Reports, the journal has a 2020 impact factor of 5.000. The founding editor was
+Robert Ferber.
+
+## 188. Label
+URL: https://en.wikipedia.org/wiki/Label
+Summary: A label (as distinct from signage) is a piece of paper, plastic film, cloth,
+metal, or other material affixed to a container or product, on which is written
+or printed information or symbols about the product or item. Information printed
+directly on a container or article can also be considered labelling. Labels have
+many uses, including promotion and providing information on a product's origin,
+the manufacturer (e.g., brand name), use, safety, shelf-life and disposal, some
+or all of which may be governed by legislation such as that for food in the UK
+or United States. Methods of production and attachment to packaging are many and
+various and may also be subject to internationally recognised standards. In many
+countries, hazardous products such as poisons or flammable liquids must have a
+warning label.
+
+## 189. Lawfare
+URL: https://en.wikipedia.org/wiki/Lawfare
+Summary: Lawfare is the use of legal systems and institutions to affect foreign or
+domestic affairs, as a more peaceful and rational alternative, or as a less
+benign adjunct, to warfare. Detractors have alternately begun to define the
+phrase as, "An attempt to damage or delegitimize an opponent, or to deter an
+individual's usage of their legal rights". The term may refer to the use of
+legal systems and principles against an enemy, such as by damaging or
+delegitimizing them, wasting their time and money (e.g., strategic lawsuits
+against public participation), or winning a public relations victory.
+Alternatively, it may describe a tactic used by repressive regimes to label and
+discourage civil society or individuals from claiming their legal rights via
+national or international legal systems. This is especially common in situations
+when individuals and civil society use nonviolent methods to highlight or oppose
+discrimination, persecution, corruption, lack of democracy, limiting freedom of
+speech, violations of human rights and violations of international humanitarian
+law." Since the early 2000s, the use of legal mechanisms in conflict contexts
+has drawn significant international attention. During this period, particularly
+in the context of the U.S.-led "War on Terror" both the United States and Israel
+have characterized legal challenges to their military operations as a form of
+lawfare—a term used to describe the perceived exploitation of legal systems to
+achieve political or ideological objectives. Critics argue that this framing
+delegitimizes the legal efforts of less powerful actors who seek accountability
+through international institutions.
+
+## 190. Lawn sign
+URL: https://en.wikipedia.org/wiki/Lawn_sign
+Summary: Lawn signs (also known as yard signs, bandit signs and placards, among other
+names) are small signs that can be placed on a street-facing lawn or elsewhere
+on a property to express the support for an election candidate, or political
+position, by the property owner (or sometimes to promote a business). They are
+popular in political campaigns in the United States and Canada.
+
+## 191. List of hoaxes
+URL: https://en.wikipedia.org/wiki/List_of_hoaxes
+Summary: The following is a list of hoaxes:
+
+## 192. List of marketing terms
+URL: https://en.wikipedia.org/wiki/List_of_marketing_terms
+Summary: Many terms are used in the marketing field.  AIDA (marketing) Arrow information
+paradox Attack marketing Bargain bin Business-to-business Business-to-consumer
+Business-to-government Cause marketing Copy testing Cost per conversion Customer
+lifetime value Customer relationship management Decision making unit
+Disintermediation Double jeopardy (marketing) Double loop marketing Emotional
+branding Engagement (marketing) Facelift (product) Fallacy of quoting out of
+context Fine print Flighting (advertising) Growth Hacking Heavy-up
+Inseparability Intangibility Integrated marketing communications Low-end market
+Marketing communications Marketing experimentation Marketing exposure Marketing
+information system Marketing mix for product software Marketing speak
+Megamarketing Networks in marketing Next-best-action marketing Nielsen ratings
+Out-of-box experience Perishability Permission marketing Price Analysis Product
+lifecycle Product lifecycle management Promoter (entertainment) Q Score
+Relational goods Representative office Response rate ratio Return on investment
+ROMI (return on marketing investment) Science-to-business marketing SEO – search
+engine optimization Share of Wallet Soft launch Solutions Marketing SONCAS
+Sports Entertainment Square inch analysis Sweeps period Top of mind awareness
+Venture Marketing Visual merchandising White label   == References ==
+
+## 193. List of most valuable brands
+URL: https://en.wikipedia.org/wiki/List_of_most_valuable_brands
+Summary: The following article lists the most valuable corporate brands in the world
+according to different estimates by Kantar Group, Interbrand, Brand Finance and
+Forbes. Factors that influence brand value are sales, market share, market
+capitalization, awareness of a brand, products, popularity, image, etc. Readers
+should note that lists like this, while informative, are somewhat subjective, as
+no single metric exists for determining valuation for brands.
+
+## 194. Literary forgery
+URL: https://en.wikipedia.org/wiki/Literary_forgery
+Summary: Literary forgery (also known as literary mystification, literary fraud or
+literary hoax) is writing, such as a manuscript or a literary work, which is
+either deliberately misattributed to a historical or invented author, or is a
+purported memoir or other presumably nonfictional writing deceptively presented
+as true when, in fact, it presents untrue or imaginary information or content.
+These deceptive practices have a long history and have occurred across various
+literary traditions, often with significant cultural or financial impacts.
+Literary forgeries can take many forms, including works that are falsely claimed
+to be ancient texts by known authors, fabricated memoirs, or fictional accounts
+presented as historical records. The reasons for creating literary forgeries can
+vary, including the pursuit of financial gain, the desire for literary
+recognition, or the promotion of specific ideological views. While literary
+forgeries are often exposed and discredited, they can nevertheless have outsized
+impacts in shaping cultural and historical narratives.
+
+## 195. Loaded language
+URL: https://en.wikipedia.org/wiki/Loaded_language
+Summary: Loaded language is rhetoric used to influence an audience by using words and
+phrases with strong connotations. This type of language is very often made vague
+to more effectively invoke an emotional response and/or exploit stereotypes.
+Loaded words and phrases have significant emotional implications and involve
+strongly positive or negative reactions beyond their literal meaning.
+
+## 196. Loyalty marketing
+URL: https://en.wikipedia.org/wiki/Loyalty_marketing
+Summary: Loyalty marketing is a marketing strategy in which a company focuses on growing
+and retaining existing customers through incentives.  Branding, product
+marketing, and loyalty marketing all form part of the customer proposition – the
+subjective assessment by the customer of whether to purchase a brand or not
+based on the integrated combination of the value they receive from each of these
+marketing disciplines. The discipline of customer loyalty marketing has been
+around for many years, but expansions from it merely being a model for
+conducting business to becoming a vehicle for marketing and advertising have
+made it omnipresent in consumer marketing organizations since the mid- to
+late-1990s.  Some of the newer loyalty marketing industry insiders, such as Fred
+Reichheld, have claimed a strong link between customer loyalty marketing and
+customer referral. In recent years, a new marketing discipline called "customer
+advocacy marketing" has been combined with or replaced by "customer loyalty
+marketing." To the general public, many airline miles programs, hotel frequent
+guest programs, and credit card incentive programs are the most visible customer
+loyalty marketing programs.
+
+## 197. Lying press
+URL: https://en.wikipedia.org/wiki/Lying_press
+Summary: "Lying press" (German: Lügenpresse, lit. 'press of lies' [ˈlyːɡn̩ˌpʁɛsə] ) is a
+pejorative and disparaging political epithet used largely for the printed press
+and the mass media at large.
+
+## 198. Macroeconomics
+URL: https://en.wikipedia.org/wiki/Macroeconomics
+Summary: Macroeconomics is a branch of economics that deals with the performance,
+structure, behavior, and decision-making of an economy as a whole. This includes
+regional, national, and global economies. Macroeconomists study topics such as
+output/GDP (gross domestic product) and national income, unemployment (including
+unemployment rates), price indices and inflation, consumption, saving,
+investment, energy, international trade, and international finance.
+Macroeconomics and microeconomics are the two most general fields in economics.
+The focus of macroeconomics is often on a country (or larger entities like the
+whole world) and how its markets interact to produce large-scale phenomena that
+economists refer to as aggregate variables. In microeconomics the focus of
+analysis is often a single market, such as whether changes in supply or demand
+are to blame for price increases in the oil and automotive sectors.  From
+introductory classes in "principles of economics" through doctoral studies, the
+macro/micro divide is institutionalized in the field of economics. Most
+economists identify as either macro- or micro-economists. Macroeconomics is
+traditionally divided into topics along different time frames: the analysis of
+short-term fluctuations over the business cycle, the determination of structural
+levels of variables like inflation and unemployment in the medium (i.e.
+unaffected by short-term deviations) term, and the study of long-term economic
+growth. It also studies the consequences of policies targeted at mitigating
+fluctuations like fiscal or monetary policy, using taxation and government
+expenditure or interest rates, respectively, and of policies that can affect
+living standards in the long term, e.g. by affecting growth rates.
+Macroeconomics as a separate field of research and study is generally recognized
+to start in 1936, when John Maynard Keynes published his The General Theory of
+Employment, Interest and Money, but its intellectual predecessors are much
+older. Since World War II, various macroeconomic schools of thought like
+Keynesians, monetarists, new classical and new Keynesian economists have made
+contributions to the development of the macroeconomic research mainstream.
+
+## 199. Macromarketing
+URL: https://en.wikipedia.org/wiki/Macromarketing
+Summary: Macromarketing is an interdisciplinary field that studies marketing as a
+provisioning technology of society. It focuses on marketing-society interactions
+including such topics as marketing systems, aggregate consumer behavior, market
+regulation, social responsibility, justice and ethics in markets, and
+sustainable marketing. By comparison, "micromarketing" deals with how firms
+decide what to make, how to market it, and how much to price it. Some of key
+topics include the tragedy of the commons, subliminal advertising, market
+symbolism and environmental sustainability. The notion of "marketing systems" is
+at the heart of macromarketing thought. Macromarketing may be a fairly recent
+term, but the ideas and interests that it comprises have existed as long as
+human history. For example, History of the Peloponnesian War by Thucydides,
+Magna Carta, and The Travels of Marco Polo are works that embody macromarketing
+themes. Macromarketing practice moreover is perhaps as old as society itself.
+Societies emerged for the welfare of the group; the need for specialization and
+then exchanges of items produced by specialists surely was evident early on.
+Greater specialization and support for it begat trade, and eventually
+markets—which linked many systems in any given society, from production to
+consumption—were an efficient mechanism to sustain a society, which,
+fundamentally is a series of institutions and systems agreed upon by the members
+of the group. For example, even ancient markets like the agora in Athens or a
+bazaar in Mesopotamia would have been built on systemic organization and
+coordination, bringing people together. Modern macromarketing literature on
+contemporary society may discuss topics like subliminal advertising,
+environmentally friendly packaging, and transgender consumers. Articles in the
+Journal of Macromarketing were about marketing ethics, how American muslims use
+social media to connect with verified halal markets, destination marketing and
+place branding in gastronomy, and how U.S. nonprofits are addressing the "wicked
+problem" of gun violence through macro-social marketing. Macromarketing models
+are normative constructs, and the discipline that reflects society's value
+judgments and takes a stance on "how the general marketing process should be
+conducted in the best interests of society". Some scholars argued that
+"improving our knowledge of marketing" was a sort of "social process of resource
+mobilization that, among other things, focuses on an understanding of processes
+of social learning, adoption, and innovation". In fact, some scholars worried
+that it was falling out of the spotlight, perhaps because the field was seen as
+"the conscience of marketing practice", which was less appealing in an academia
+that values "objectivity and scientific enquiry". macromarketing focused on
+
+## 200. Managing the news
+URL: https://en.wikipedia.org/wiki/Managing_the_news
+Summary: Managing the news is the deliberate influencing of the presentation of
+information within the news media. The expression managing the news is often
+used in a negative sense. For example, people or organizations that wish to
+lessen the publicity concerning bad news may choose to release the information
+late on a Friday, giving journalists less time to pursue the story. Staying "on
+message" is a technique intended to limit questions and attention to a narrow
+scope favorable to the subject. An example cited by the Communication, Cultural
+and Media Studies infobase regards a February 1996 Scott Report on arms sales to
+Iraq. In the United Kingdom, the report was given early to certain officials.
+
+## 201. Manipulation (psychology)
+URL: https://en.wikipedia.org/wiki/Manipulation_(psychology)
+Summary: In psychology, manipulation is defined as an action designed to influence or
+control another person, usually in an underhanded or subtle manner which
+facilitates one's personal aims. Methods someone may use to manipulate another
+person may include seduction, suggestion, coercion, and blackmail. Manipulation
+is generally considered a dishonest form of social influence as it is used at
+the expense of others. Humans are inherently capable of manipulative and
+deceptive behavior, with the main differences being that of specific personality
+characteristics or disorders.
+
+## 202. Market analysis
+URL: https://en.wikipedia.org/wiki/Market_analysis
+Summary: A market analysis studies the attractiveness and the dynamics of a special
+market within a special industry. It is part of the industry analysis and thus
+in turn of the global environmental analysis. Through all of these analyses the
+strengths, weaknesses, opportunities and threats (SWOT) of a company can be
+identified. Finally, with the help of a SWOT analysis, adequate business
+strategies of a company will be defined.  The market analysis is also known as a
+documented investigation of a market that is used to inform a firm's planning
+activities, particularly around decisions of inventory, purchase, work force
+expansion/contraction, facility expansion, purchases of capital equipment,
+promotional activities, and many other aspects of a company.
+
+## 203. Market economy
+URL: https://en.wikipedia.org/wiki/Market_economy
+Summary: A market economy is an economic system in which the decisions regarding
+investment, production, and distribution to the consumers are guided by the
+price signals created by the forces of supply and demand. The major
+characteristic of a market economy is the existence of factor markets that play
+a dominant role in the allocation of capital and the factors of production.
+Market economies range from minimally regulated free market and laissez-faire
+systems where state activity is restricted to providing public goods and
+services and safeguarding private ownership, to interventionist forms where the
+government plays an active role in correcting market failures and promoting
+social welfare. State-directed or dirigist economies are those where the state
+plays a directive role in guiding the overall development of the market through
+industrial policies or indicative planning—which guides yet does not substitute
+the market for economic planning—a form sometimes referred to as a mixed
+economy. Market economies are contrasted with planned economies where investment
+and production decisions are embodied in an integrated economy-wide economic
+plan. In a centrally planned economy, economic planning is the principal
+allocation mechanism between firms rather than markets, with the economy's means
+of production being owned and operated by a single organizational body.
+
+## 204. Market environment
+URL: https://en.wikipedia.org/wiki/Market_environment
+Summary: Market environment and business environment are marketing terms that refer to
+factors and forces that affect a firm's ability to build and maintain successful
+customer relationships. The business environment has been defined as "the
+totality of physical and social factors that are taken directly into
+consideration in the decision-making behaviour of individuals in the
+organisation." The three levels of the environment are as follows:  Internal
+environment – the internal elements of the organisation used to create,
+communicate and deliver market offerings. External micro environment – Local
+forces that affect its ability to serve its customers. External macro
+environment – larger societal forces that affect the survival of the
+organisation, including the demographic environment, the political environment,
+the cultural environment, the natural environment, the technological environment
+and the economic environment. The analysis of the macro marketing environment is
+to better understand the environment, adapt to the social environment and
+change, so as to achieve the purpose of enterprise marketing.
+
+## 205. Market research
+URL: https://en.wikipedia.org/wiki/Market_research
+Summary: Market research is an organized effort to gather information about target
+markets and customers. It involves understanding who they are and what they
+need. It is an important component of business strategy and a major factor in
+maintaining competitiveness. Market research helps to identify and analyze the
+needs of the market, the market size and the competition. Its techniques
+encompass both qualitative techniques such as focus groups, in-depth interviews,
+and ethnography, as well as quantitative techniques such as customer surveys,
+and analysis of secondary data. It includes social and opinion research, and is
+the systematic gathering and interpretation of information about individuals or
+organizations using statistical and analytical methods and techniques of the
+applied social sciences to gain insight or support decision making. Market
+research, marketing research, and marketing are a sequence of business
+activities; sometimes these are handled informally. The field of marketing
+research is much older than that of market research. Although both involve
+consumers, Marketing research is concerned specifically about marketing
+processes, such as advertising effectiveness and salesforce effectiveness, while
+market research is concerned specifically with markets and distribution. Two
+explanations given for confusing Market research with Marketing research are the
+similarity of the terms and also that Market Research is a subset of Marketing
+Research. Further confusion exists because of major companies with expertise and
+practices in both areas.
+
+## 206. Market segmentation
+URL: https://en.wikipedia.org/wiki/Market_segmentation
+Summary: In marketing, market segmentation or customer segmentation is the process of
+dividing a consumer or business market into meaningful sub-groups of current or
+potential customers (or consumers) known as segments. Its purpose is to identify
+profitable and growing segments that a company can target with distinct
+marketing strategies. In dividing or segmenting markets, researchers typically
+look for common characteristics such as shared needs, common interests, similar
+lifestyles, or even similar demographic profiles. The overall aim of
+segmentation is to identify high-yield segments – that is, those segments that
+are likely to be the most profitable or that have growth potential – so that
+these can be selected for special attention (i.e. become target markets). Many
+different ways to segment a market have been identified. Business-to-business
+(B2B) sellers might segment the market into different types of businesses or
+countries, while business-to-consumer (B2C) sellers might segment the market
+into demographic segments, such as lifestyle, behavior, or socioeconomic status.
+Market segmentation assumes that different market segments require different
+marketing programs – that is, different offers, prices, promotions,
+distribution, or some combination of marketing variables. Market segmentation is
+not only designed to identify the most profitable segments but also to develop
+profiles of key segments to better understand their needs and purchase
+motivations. Insights from segmentation analysis are subsequently used to
+support marketing strategy development and planning.  In practice, marketers
+implement market segmentation using the S-T-P framework, which stands for
+Segmentation → Targeting → Positioning. That is, partitioning a market into one
+or more consumer categories, of which some are further selected for targeting,
+and products or services are positioned in a way that resonates with the
+selected target market or markets.
+
+## 207. Marketing (magazine)
+URL: https://en.wikipedia.org/wiki/Marketing_(magazine)
+Summary: In the context of magazines, Marketing may refer to:  Marketing (British
+magazine), established 1931, defunct 2016 Marketing (Canadian magazine), which
+merged into Strategy in 2016 Marketing (Indonesian magazine), established 2001
+
+## 208. Marketing Science
+URL: https://en.wikipedia.org/wiki/Marketing_science
+Summary: Marketing science is a field that approaches marketing—the understanding of
+customer needs, and the development of approaches by which they might be
+fulfilled—predominantly through  scientific methods, rather than through tools
+and techniques common with research in the arts or humanities. The field of
+marketing science, in the pursuit of "truths" in marketing, is related to, but
+more general than marketing research, which is oriented towards a specific
+product, service or campaign. The earliest published works in Marketing Science
+are by Frank Bass and John Little . The two are considered to be the founders of
+the field of Marketing Science.  Before marketing science was formally labeled,
+its activity appeared as management science within the marketing framework. The
+interaction between academics and practitioners in marketing science dates back
+to 1961, with the founding of the Marketing Science Institute. Interest in
+marketing science as a field grew in the late 1980s and early 1990s as
+electronic point-of-sale data grew and barcode readers led to a "marketing
+information revolution". Before conferences were organized with a "marketing
+science" label, four meetings were convened as "Market Measurement and Analysis"
+conferences from 1979 to 1982, sponsored by The Institute of Management Sciences
+and the Operations Research Society of America. The first officially labeled
+Marketing Science Conference was hosted by the School of Management at UCLA in
+1983.
+
+## 209. Marketing activation
+URL: https://en.wikipedia.org/wiki/Marketing_activation
+Summary: Marketing activation is the execution of the marketing mix as part of the
+marketing process. The activation phase typically comes after the planning phase
+during which managers plan their marketing activities and is followed by a
+feedback phase in which results are evaluated with marketing analytics.
+Depending on the business objective, two types of marketing activation can be
+used as part of a marketing strategy.  Brand activation, sometimes called brand
+engagement which focuses on building a longer term emotional connection between
+the brand and the customer. Activation based on direct-response marketing will
+focus on generating immediate sales transactions.
+
+## 210. Marketing communications
+URL: https://en.wikipedia.org/wiki/Marketing_communications
+Summary: Marketing communications (MC, marcom(s), marcomm(s) or just simply
+communications) refers to the use of different marketing channels and tools in
+combination. Marketing communication channels focus on how businesses
+communicate a message to their desired market, or the market in general. It can
+also include the internal communications of the organization. Marketing
+communication tools include advertising, personal selling, direct marketing,
+sponsorship, communication, public relations, social media, customer journey and
+promotion. MC are made up of the marketing mix which is made up of the 4 Ps:
+Price, Promotion, Place and Product, for a business selling goods, and made up
+of 7 Ps: Price, Promotion, Place, Product, People, Physical evidence and
+Process, for a service-based business.
+
+Total links processed: 210
+Date and time: 2025-06-09 17:11:52
