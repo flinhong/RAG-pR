@@ -174,5 +174,5 @@ cython_debug/
 .pypirc
 
 # Wikipedia fetched text data
-/RAG-Wikipedia/data
+/RAG-Wikipedia/documents
 /RAG-Wikipedia/dataset
